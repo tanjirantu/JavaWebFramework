@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>Framework</servlet-name>
+		<servlet-class>GlobalController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Framework</servlet-name>
+		<url-pattern>/ABC/*</url-pattern>
+	</servlet-mapping>
+</web-app>

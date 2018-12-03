@@ -1,0 +1,13 @@
+<app>
+    <mvc>
+        <controller>LoginController</controller>
+        <model>LoginModel</model>
+        <url-parameter>/login</url-parameter>
+    </mvc>
+
+    <mvc>
+        <controller>RegistrationController</controller>
+        <model>RegistrationModel</model>
+        <url-parameter>/registration</url-parameter>
+    </mvc>
+</app>
